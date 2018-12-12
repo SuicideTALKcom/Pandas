@@ -1,11 +1,14 @@
 # Unit 4 | Assignment - Pandas, Pandas, Pandas
 
+<<<<<<< HEAD
+=======
 ## Background
 
 The data dive continues!
 
 Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete the  Data Challenges. Be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
+>>>>>>> d558708eb8c241e4bd9486e978d1247eb663e57e
 ## Academy of Py
 
 ![Education](Images/education.jpg)
