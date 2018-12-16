@@ -1,3 +1,5 @@
-﻿The Submitted_Before_Deadline.ipynb file was uploaded before midnight on 12/15/2018
+﻿The original submission file was uploaded before midnight on 12/15/2018.
  
- The PyCitySchools.ipynb file was uploaded 4 hours after this original submission.
+ This file was then later re-named as "Submitted_Before_Deadline".
+ 
+ The "PyCitySchools" file was uploaded 4 hours after the original submission.
