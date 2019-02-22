@@ -1,7 +1,5 @@
 # Unit 4 | Assignment - Pandas, Pandas, Pandas
 
-<<<<<<< HEAD
-=======
 ## Background
 
 The data dive continues!
